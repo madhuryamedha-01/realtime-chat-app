@@ -7,6 +7,9 @@ A **real-time chat application** built using **Node.js**, **Express**, and **Soc
 * **Backend:** Node.js, Express, Socket.IO
 * **Frontend:** HTML, CSS, JavaScript
 * **Real-Time Communication:** WebSockets via Socket.IO
+
+* ![Chat App Screenshot](screenshot.png)
+
 ---
 ## **Features**
 
